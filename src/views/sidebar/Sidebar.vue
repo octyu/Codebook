@@ -6,7 +6,7 @@ import { onMounted } from "vue";
 </script>
 
 <template>
-    <div style="background: white;width: 200px;height: 100%">
+    <div style="width: 200px;height: 100%">
         <UserHeader/>
         <SideMenu/>
     </div>

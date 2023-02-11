@@ -8,11 +8,11 @@ import Container from "./views/Container.vue";
 
 <style>
 html, body {
-    background: black;
-    height: 100%;
+    background: rgb(21, 21, 21);
 }
 
-#app {
-    height: 100%;
+body {
+    font-family:”Microsoft YaHei”,Arial,Helvetica,sans-serif,”宋体”;
+    color: white;
 }
 </style>
